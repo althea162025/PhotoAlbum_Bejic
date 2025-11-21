@@ -1,3 +1,37 @@
+Photo Album Web Application (Laravel)
+
+Program: BSIT 
+Activity Tittle: LAB. Activity  - Photo Album
+Name: John Wayne Bejic
+
+---
+
+📸 Description
+This Laravel project displays a digital photo album with 100 images divided into 5 categories:
+
+| Page | Category | Images |
+|------|-----------|---------|
+| 1 | Nature Zone | 20 |
+| 2 | Animals Zone| 20 |
+| 3 | Architecture Zone | 20 |
+| 4 | People Zone | 20 |
+| 5 | Countries Zone | 20 |
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 093704" src="https://github.com/user-attachments/assets/0b7f65f9-11eb-4ffc-a62e-0bf4f5bf4b24" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 093717" src="https://github.com/user-attachments/assets/b2d0b772-42f2-4def-9f3f-38b7edc9db00" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 093738" src="https://github.com/user-attachments/assets/c4857e1e-a502-4b10-9b3e-b09998cd726d" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 093800" src="https://github.com/user-attachments/assets/e76a30fb-79c6-45af-ae30-b8f256c13a25" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 093816" src="https://github.com/user-attachments/assets/4c432953-6d20-4d6d-bb87-ba2874032804" />
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
